@@ -1,5 +1,5 @@
 scikit-learn
-speech_recognition
+SpeechRecognition
 sounddevice
 soundfile
 sketch
